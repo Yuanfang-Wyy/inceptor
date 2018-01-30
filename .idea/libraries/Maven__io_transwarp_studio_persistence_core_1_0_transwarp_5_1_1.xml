@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.transwarp.studio:persistence-core:1.0-transwarp-5.1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/TDH-SDK-Transwarp-5.1.0-final.tar.gz/repository/io/transwarp/studio/persistence-core/1.0-transwarp-5.1.1/persistence-core-1.0-transwarp-5.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/TDH-SDK-Transwarp-5.1.0-final.tar.gz/repository/io/transwarp/studio/persistence-core/1.0-transwarp-5.1.1/persistence-core-1.0-transwarp-5.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/TDH-SDK-Transwarp-5.1.0-final.tar.gz/repository/io/transwarp/studio/persistence-core/1.0-transwarp-5.1.1/persistence-core-1.0-transwarp-5.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

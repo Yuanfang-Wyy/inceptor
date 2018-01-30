@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.calcite.avatica:avatica:1.8.0-transwarp">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/TDH-SDK-Transwarp-5.1.0-final.tar.gz/repository/org/apache/calcite/avatica/avatica/1.8.0-transwarp/avatica-1.8.0-transwarp.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/TDH-SDK-Transwarp-5.1.0-final.tar.gz/repository/org/apache/calcite/avatica/avatica/1.8.0-transwarp/avatica-1.8.0-transwarp-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/TDH-SDK-Transwarp-5.1.0-final.tar.gz/repository/org/apache/calcite/avatica/avatica/1.8.0-transwarp/avatica-1.8.0-transwarp-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
